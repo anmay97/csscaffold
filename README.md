@@ -70,7 +70,7 @@ If you want something more comprehensive:
 
 - **[Pico CSS](https://picocss.com/)** - Classless CSS framework. Good if you want minimal pre-built styles for basic HTML elements.
 
-- **[Water.css](https://watercss.dev/)** - Just add one `<link>` tag. Good if you want instant styling with zero setup.
+- **[Water.css](https://watercss.kognise.dev/)** - Just add one `<link>` tag. Good if you want instant styling with zero setup.
 
 **csscaffold is for you if:**
 - You want structure without conventions
